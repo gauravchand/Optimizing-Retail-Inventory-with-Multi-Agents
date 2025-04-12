@@ -1,0 +1,21 @@
+retail-inventory-ai/
+├── app/
+│   ├── __init__.py
+│   ├── config/
+│   │   ├── __init__.py
+│   │   └── constants.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── database.py
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   └── js/
+│   │       └── main.js
+│   └── templates/
+│       ├── index.html
+│       ├── inventory.html
+│       └── forecast.html
+├── requirements.txt
+├── setup_db.py
+└── main.py
